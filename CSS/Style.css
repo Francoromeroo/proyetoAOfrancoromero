@@ -1,0 +1,65 @@
+/* 
+            tab y comillas = {}
+selection 
+[propiedad valor ]
+
+para centrar 1ro - display: flex - para horizontal "justify-content: center" - 
+para vertical "align-items: center"
+"float" para mover texto de izquierda a  derecha 
+ */ 
+
+
+body {margin: 0%; padding: 0%; background-color: black;}
+.intro  {background-color: red; display: flex;
+justify-content: center;
+flex-wrap: wrap;
+} 
+
+
+.presentacion {background-color: black; color: white;font-style: italic;}
+h1  {display: flex; justify-content: center;font-size: xx-large;}
+.CR {display: flex; justify-content: center;}
+h3  {display: flex; justify-content: center; font-size: x-large;}
+
+.kevinlevrone   {background-color: red;color: white;}
+.KL {display: flex; justify-content: center;background-color: red;}
+h2  {display: flex; justify-content: center;font-size: xx-large;margin: 0%;}
+.espacio1   {background-color: red;}
+
+
+ .lista1  {background-color: white; 
+    display: flex;font-size: xx-large ;
+    font-family: Arial, Helvetica, sans-serif;font-weight: bold;}
+ ul {list-style: none;padding: 0%;margin: 0%;}
+ li  {float: left;display: block; padding: 10px 70px}
+ a  {text-decoration: none; color: red;}
+.dudas  {color: white;font-size: larger;}
+.formulario {text-align: center; color: white;}
+
+/*css de asesorias online*/
+#introasesorias 
+ {background-color: red; display: flex;
+justify-content: center;
+flex-wrap: wrap; 
+} 
+
+h1  {color: rgba(255, 255, 255, 0.831);display: flex; justify-content: start;font-size: xx-large;margin: 10%;padding: 0%;}
+h3  {color: rgba(0, 0, 0, 0.929);display: flex; justify-content: center;font-size: x-large;margin: 0%;padding: 0%;}
+
+
+#texto1 {background-color: black; color: white;font-style: italic;}
+.junto  {color: white; display: flex; justify-content: center;margin: 1%;padding: 0%;;}
+.cambio {display: flex;justify-items: center;align-items: center;}
+#kevinlevroneA  {display: flex; justify-content: center;align-items: center;float: left; }
+
+#texto2 { color: white;display: flex;justify-content: center;}
+
+
+
+#RS {background-color: white; 
+    display: flex;justify-content: center; align-items: center; 
+    font-family: Arial, Helvetica, sans-serif;font-weight: bold;
+list-style: none;
+text-decoration: none;
+color: white;font-size: larger;
+}
