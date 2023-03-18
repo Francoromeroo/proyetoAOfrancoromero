@@ -10,21 +10,21 @@ para vertical "align-items: center"
 
 
 body {margin: 0%; padding: 0%; background-color: black;}
-.intro  {background-color: red; display: flex;
+.intro  {background-color: rgb(202, 9, 9); display: flex;
 justify-content: center;
 flex-wrap: wrap;
 } 
 
 
-.presentacion {background-color: black; color: white;font-style: italic;}
+.presentacion {background-color: rgb(37, 6, 6); color: white;font-style: italic;}
 h1  {display: flex; justify-content: center;font-size: xx-large;}
 .CR {display: flex; justify-content: center;}
 h3  {display: flex; justify-content: center; font-size: x-large;}
 
-.kevinlevrone   {background-color: red;color: white;}
+.kevinlevrone   {background-color: rgb(162, 6, 6);color: white;}
 .KL {display: flex; justify-content: center;background-color: red;}
 h2  {display: flex; justify-content: center;font-size: xx-large;margin: 0%;}
-.espacio1   {background-color: red;}
+.espacio1   {background-color: rgb(143, 4, 4);}
 
 
  .lista1  {background-color: white; 

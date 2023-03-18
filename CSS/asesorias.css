@@ -1,7 +1,7 @@
 body {margin: 0%; padding: 0%; background-color: black;}
 
 #introasesorias 
- {background-color: red; display: flex;
+ {background-color: rgb(196, 8, 8); display: flex;
 justify-content: center;
 flex-wrap: wrap; 
 } 
@@ -17,7 +17,7 @@ flex-wrap: wrap;
 
 #texto2 { color: white;display: flex;justify-content: center;}
 
-#RS {background-color: white; 
+#RS {background-color: rgb(211, 182, 182); 
     display: flex;justify-content: center; align-items: center; 
     font-family: Arial, Helvetica, sans-serif;font-weight: bold;
 list-style: none;
